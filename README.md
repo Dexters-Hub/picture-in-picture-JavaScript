@@ -8,3 +8,6 @@
     <li>Click the Start button to preview the choosen tab in picture-in-picture mode.</li>
 </ol>
 </h2>
+<h1><b>Preview</b></h1>
+    <img src ="images/preview.png" height="300" width="auto">
+
